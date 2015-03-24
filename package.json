@@ -1,0 +1,20 @@
+{
+  "name": "gulp-font-spider",
+  "version": "1.0.0",
+  "description": "better Chinese fonts for the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gimm/gulp-font-spider"
+  },
+  "keywords": [
+    "gulp",
+    "font",
+    "chinese"
+  ],
+  "author": "yucc2008@gmail.com",
+  "license": "ISC"
+}
